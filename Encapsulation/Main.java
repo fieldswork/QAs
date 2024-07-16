@@ -28,6 +28,7 @@ public class Main {
         employee.greetAccountHolder(account);
 
         // Taking matters into our own hands to get rich quick
+        System.out.println("Attempting to access accountExists and Balance from BankAccount...\n");
 
         // Seeing if our account exists
         try {
